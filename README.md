@@ -17,8 +17,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Program:
 ~~~
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: H.Syed Abdul Wasih 
-Register Number: 212221240057
+Developed by: Ragul AC
+Register Number: 212221240042
 ~~~
 ~~~
 import pandas as pd
@@ -58,15 +58,15 @@ plt.title("Customer Segments")
 ## Output:
 
 ### Data.head():
-![output](./img/1.png)
+![output](1.png)
 ### Data.info():
-![output](./img/2.png)
+![output](2.png)
 ### Data.isnull().sum():
-![output](./img/3.png)
+![output](3.png)
 ### Elbow Method:
-![output](./img/4.png)
+![output](4.png)
 ### Cluster:
-![output](./img/5.png)
+![output](5.png)
 
 
 ## Result:
